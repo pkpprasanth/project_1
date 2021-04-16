@@ -1,8 +1,6 @@
+![alt text](https://github.com/prasanth132910/image/blob/main/logo.png)
 
-
-![Image description](https://i1.faceprep.in/ProGrad/prograd-logo.png)
-
-# PROGRAD LABS | NODE | FILE OPERATIONS
+# NODE | FILE OPERATIONS
 
 ## Learning Goals
 
