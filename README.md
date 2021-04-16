@@ -65,7 +65,7 @@ const password = crypto.createHmac('sha256', secret).update('Prograd').digest('h
 message.txt
 ProGrad Details
    UserId ->        1000,
-   Name ->          Prograd,
+   Name ->          prasanth,
    Year ->          2020,
    Qualification -> BE,
    UserName->       prasanth,
